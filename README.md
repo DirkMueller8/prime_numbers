@@ -13,6 +13,6 @@ Author:			    Dirk Mueller
 
 Software for the calculation of a prime number given by the user. An example output looks like this:
 
-![]('screen_output.png')
+![](screen_output.png)
 
 *Fig 1: Excerpt of code showing the output* 
