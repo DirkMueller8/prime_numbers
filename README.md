@@ -14,7 +14,7 @@ Author:			    Dirk Mueller
 Software for the calculation of a prime number given by the user. 
 
 The algorithm:
-1. Divide every number between n = 2 and 1000 by the number i fulfilling the condition 2 < i <= n/2
+1. Divide every number between 2 and n = input by the number i fulfilling the condition 2 < i <= n/2
 2. If the division has no remainder it is a prime number
 3. Print the prime number to the console
 
@@ -22,4 +22,4 @@ An example output looks like this:
 
 ![](screen_output.png)
 
-*Fig 1: Excerpt of code showing the output* 
+*Fig 1: Example output for n = 500* 
