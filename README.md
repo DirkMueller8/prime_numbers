@@ -1,6 +1,6 @@
 ## Calculation of prime numbers
 **********************************************
-Software:		    C# version 9.0
+Software:		    C# version 9.0 Console application
 
 Framework:          .NET 5.0
 
